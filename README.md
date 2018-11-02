@@ -8,7 +8,7 @@ Group project by Leonid Matyushin, Alexander Lyzhov, Alexey Ustimenko, Philip Bl
 
 * [Exploring a minimalistic 3-neuron setup](Minimal.ipynb)
 
-* [Tanh/ReLU information planes](tanh_relu_comparsion.ipynb)
+* [Tanh/ReLU information planes](tanh_relu_comparison.ipynb)
 
 _Work in progress, not all the code is assembled here yet._
 
