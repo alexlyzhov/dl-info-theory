@@ -6,6 +6,8 @@ Group project by Leonid Matyushin, Alexander Lyzhov, Alexey Ustimenko, Philip Bl
 
 * [Testing different step size policies](step_size_policies.ipynb)
 
+* [Exploring a minimalistic 3-neuron setup](Minimal.ipynb)
+
 _Work in progress, not all the code is assembled here yet._
 
 ### Resources used
