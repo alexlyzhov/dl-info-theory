@@ -10,6 +10,8 @@ Group project by Leonid Matyushin, Alexander Lyzhov, Alexey Ustimenko, Philip Bl
 
 * [Tanh/ReLU information planes](tanh_relu_comparison.ipynb)
 
+* [Compression of irrelevant information](commpression_of_irrel_information.ipynb)
+
 _Work in progress, not all the code is assembled here yet._
 
 ### Resources used
